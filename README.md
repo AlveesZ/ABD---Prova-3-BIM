@@ -32,7 +32,7 @@ Id primário único, armazenar o nome completo de cada vendedor, sua função, i
 # Definition of Done(DoD)
 Entregarei um relatório com vários testes comprovados por meio de fotos e descrição das mesmas, além das fotos haverá vídeos comprovando através de uma  demonstração do sistema funcionando, acompanhado de um texto explicando cada etapa.
 
-# Modelo Entidade Relacionamento
+# Modelo Entidade Relacionamento(MER)
 
 ![image](https://user-images.githubusercontent.com/111458587/192367454-cfc0be8a-459b-4f0e-8b27-a90f67e33cb6.png)
 
