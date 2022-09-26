@@ -12,8 +12,8 @@ Como Desenvolvedor, desejo criar um sistema de cadastro de clientes com dados pa
 ## #3 - Armazenar Vendas
 Como Desenvolvedor, tenho como objetivo criar um meio para armazenar todas as vendas de um negócio, relacionando cliente envolvido e valor de cada venda, para que assim seja possível, através de estudos, estabelecer gráficos de crescimento do negócio em questão. 
 
-## #4 - Cadastro Funcionários
-Como Desenvolvedor, viso criar uma tabela para cadastro de funcionários, com informações como: Nome completo, idade, endereço, cpf, data de admissão, cargo atual, data ultima promoção
+## #4 - Cadastro Vendedores
+Como Desenvolvedor, viso criar uma tabela para cadastro dos vendedores, com informações como: Nome completo, idade, endereço, cpf, data de admissão, cargo atual, data ultima promoção
 
 # Critérios de Aceitação(CA)
  
