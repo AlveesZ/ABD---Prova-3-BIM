@@ -34,6 +34,7 @@ Entregarei um relatório com vários testes comprovados por meio de fotos e desc
 
 # Modelo Entidade Relacionamento
 
-![image](https://user-images.githubusercontent.com/111458587/192366737-96ccb9f4-9c9f-490e-be95-04bed46f0eb5.png)
+![image](https://user-images.githubusercontent.com/111458587/192366911-cd74952b-7926-4ab9-b7de-0d88fcfefa8e.png)
+
 
 
