@@ -27,7 +27,7 @@ Deve conter ids primários únicos, armazenar o nome completo de cada cliente, d
 Ids primários únicos, chave estrangeira para relacionar os clientes aos produtos, criando assim uma tabela para vendas. Deve também conter a quantidade total de produtos em cada venda e o valor total da venda, como também a data de cada venda e o vendedor responsável por ela.
 
 ## #4 - funcionalidade
-Id primário único, armazenar o nome completo de cada funcionário, sua função, idade, cpf, endereço, data de admissão e data de última promação. Tudo de uma forma clara e eficiente, sendo fácil de ser lida e sem redundancias nas informações.
+Id primário único, armazenar o nome completo de cada vendedor, sua função, idade, cpf, endereço, data de admissão e data de última promação. Tudo de uma forma clara e eficiente, sendo fácil de ser lida e sem redundancias nas informações.
 
 # Definition of Done(DoD)
 Entregarei um relatório com vários testes comprovados por meio de fotos e descrição das mesmas, além das fotos haverá vídeos comprovando através de uma  demonstração do sistema funcionando, acompanhado de um texto explicando cada etapa.
